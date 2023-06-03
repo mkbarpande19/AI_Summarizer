@@ -51,3 +51,11 @@ After Adding the variable to .env file run the project with following command
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
+
+
+## Tech Stack
+
+**Technologies:** React, Redux-Toolkit, TailwindCSS
+
+**API Server:** RapidApi
+
