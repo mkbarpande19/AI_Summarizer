@@ -1,3 +1,4 @@
+
 # Open AI Summarizer App
 
 ChatGPT AI SaaS Business with React.
@@ -12,17 +13,6 @@ ChatGPT AI SaaS Business with React.
  - Handling the onclick and submit functionality
  - Implemented copy to clipboard functionality
  
-
-
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`VITE_RAPID_API_ARTICLE_KEY`
-
-
-
 ## Installation
 
 Install open AI summarizer app with npm
@@ -30,6 +20,17 @@ Install open AI summarizer app with npm
 ```bash
   cd AI_Summarizer
   npm install 
+```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`VITE_RAPID_API_ARTICLE_KEY`
+
+After Adding the variable to .env file run the project with following command
+```bash
+  npm run dev 
 ```
     
 ## API Reference
