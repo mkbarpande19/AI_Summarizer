@@ -3,6 +3,13 @@
 
 ChatGPT AI SaaS Business with React.
 
+#### Data Loading
+![screencapture-localhost-5173-2023-06-03-14_41_22](https://github.com/mkbarpande19/AI_Summarizer/assets/56429231/62ec1644-43e6-4aef-a742-cf065f416f4d)
+
+#### Data Loaded Successfully
+![screencapture-localhost-5173-2023-06-03-14_41_44](https://github.com/mkbarpande19/AI_Summarizer/assets/56429231/1c65ad33-4779-4af1-b1ef-741ee7467a4a)
+
+
 
 ## About
 
